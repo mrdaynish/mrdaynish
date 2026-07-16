@@ -1,4 +1,4 @@
- ![logo](https://github.com/skill-learner21/skill-learner21/blob/main/Screenshot_2023_1006_153602.png)
+ ![logo](https://github.com/mrdaynish/mrdaynish/blob/main/Screenshot_2023_1006_153602.png)
 <h1 align="center">Hi 👋, I'm Mr_DAN!SH21</h1>
 <h3 align="center">A Passionate In Ethical Hacking&Cyber Security From India.</h3>
 
@@ -8,16 +8,16 @@
 
 <p align="left"> <a href="https://twitter.com/mr_danish_khan" target="blank"><img src="https://img.shields.io/twitter/follow/mr_danish_khan?logo=twitter&style=for-the-badge" alt="mr_danish_khan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/skill-learner21](https://github.com/skill-learner21)
+- 👨‍💻 All of my projects are available at [https://github.com/mrdaynish](https://github.com/mrdaynish)
 
 - 📫 How to reach me **skilllearner21@gmail.com**
 
-- 📄 Know about my experiences [https://t.me/ThE_RoYaL_sQuAd](https://t.me/ThE_RoYaL_sQuAd)
+- 📄 Join our WhatsApp Community [https://chat.whatsapp.com/LOIXBhzFJlyLH05S1ofDTP](https://chat.whatsapp.com/LOIXBhzFJlyLH05S1ofDTP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/danish khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danish khan" height="30" width="40" /></a>
-<a href="https://instagram.com/official_khan_danish21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_khan_danish21" height="30" width="40" /></a>
+<a href="https://instagram.com/mrdaynish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrdaynish" height="30" width="40" /></a>
 <a href="https://medium.com/@skill-learner21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@skill-learner21" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/skill learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skill learner" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/itzmasteroboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itzmasteroboy" height="30" width="40" /></a>
@@ -28,8 +28,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skill-learner21&show_icons=true&locale=en&layout=compact" alt="skill-learner21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skill-learner21&show_icons=true&locale=en" alt="skill-learner21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skill-learner21&show_icons=true&locale=en" alt="mrdaynish" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skill-learner21&" alt="skill-learner21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skill-learner21&" alt="mrdaynish" /></p>
 
 
